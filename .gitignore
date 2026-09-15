@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset
+dataset/
+
+# Models
+models/
+
+# Model Checkpoints
+notebooks/results_distilbert
+notebooks/results_distilbert_tuned
