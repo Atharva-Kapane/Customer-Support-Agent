@@ -226,3 +226,6 @@ models/
 # Model Checkpoints
 notebooks/results_distilbert
 notebooks/results_distilbert_tuned
+
+# Output Data folder
+data/
