@@ -1,0 +1,21 @@
+# Core
+python-dotenv>=1.0.0
+pandas>=2.0.0
+numpy>=1.26.0
+pyarrow>=14.0.0
+scikit-learn>=1.4.0
+
+# Intent classifier
+torch>=2.2.0
+transformers>=4.40.0
+huggingface_hub>=0.23.0
+
+# RAG
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+
+# LLM (OpenAI-compatible clients: Groq / Gemini / OpenRouter)
+openai>=1.40.0
+
+# Demo
+streamlit>=1.36.0

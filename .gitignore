@@ -234,3 +234,5 @@ reports/golden_run.jsonl
 reports/golden_run_summary.json
 reports/eval_with_judge.jsonl
 reports/baseline_run.jsonl
+
+report.pdf
