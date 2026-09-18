@@ -1,0 +1,11 @@
+{
+  "n": 180,
+  "trivial": {
+    "action_accuracy": 0.38333333333333336,
+    "action_macro_f1": 0.27710843373493976
+  },
+  "simple": {
+    "action_accuracy": 0.6888888888888889,
+    "action_macro_f1": 0.6370967741935484
+  }
+}

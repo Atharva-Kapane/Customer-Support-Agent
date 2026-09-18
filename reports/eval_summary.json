@@ -1,0 +1,15 @@
+{
+  "n_total": 180,
+  "n_scored": 180,
+  "intent_accuracy": 0.7444444444444445,
+  "intent_macro_f1": 0.7566819061537284,
+  "action_accuracy": 0.8166666666666667,
+  "action_macro_f1": 0.8094627105052126,
+  "judge_model": "qwen/qwen3.8-27b",
+  "judge_n": 99,
+  "judge_avg_helpfulness": 4.181818181818182,
+  "judge_avg_groundedness": 4.737373737373737,
+  "judge_avg_tone": 4.9393939393939394,
+  "judge_avg_safety": 4.97979797979798,
+  "judge_avg_overall": 4.222222222222222
+}

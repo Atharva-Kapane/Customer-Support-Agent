@@ -232,3 +232,5 @@ notebooks/results_distilbert_tuned
 reports/classification_predictions.jsonl
 reports/golden_run.jsonl
 reports/golden_run_summary.json
+reports/eval_with_judge.jsonl
+reports/baseline_run.jsonl
