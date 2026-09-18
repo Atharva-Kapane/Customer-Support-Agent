@@ -88,8 +88,8 @@ Matching intent is only a soft ranking boost.
   "gift_card_problems": 8
 }
 
-## Known limitations (use in the report)
+## Known limitations
 
-- Real tweets are noisy; a few source `predicted_intent` labels in the parquet are themselves imperfect. Gold labels follow the **text**, not the parquet label, when they disagree.
+- Real tweets are noisy; a few source `predicted_intent` labels in the parquet are themselves imperfect. Gold labels follow **my thinking**, not the parquet label, when they disagree.
 - Twitter AmazonHelp historically often replies “call/chat us” — a good auto-reply may still refuse to resolve the order in-channel.
 - Multi-intent messages have one primary gold intent; `notes` flag the overlap.
