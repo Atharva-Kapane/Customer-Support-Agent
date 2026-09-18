@@ -226,3 +226,9 @@ models/
 # Model Checkpoints
 notebooks/results_distilbert
 notebooks/results_distilbert_tuned
+
+
+# Reports (Large Files)
+reports/classification_predictions.jsonl
+reports/golden_run.jsonl
+reports/golden_run_summary.json
